@@ -1,3 +1,17 @@
-img {
-    width:40%;
-}
+img 
+    { width:40%;
+    }
+    .Best{
+        color: Red;
+        }
+    .Two
+     {color: Gold;
+     }   
+     
+     .Three
+     {color: Blue;
+     }
+     
+     .Four
+     {color: Green;
+     }
